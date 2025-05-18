@@ -1,0 +1,24 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+# your projects
+projects:
+- name: PokeApp
+  logo: /images/sections/skills/android.svg
+  role: Developer
+  #timeline: "March 2018 - Present"
+  repo: https://github.com/duartesom/rijksmuseum-app
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Pokédex app for displaying information about Pokémon
+  tags: []
+
+- name: Rijks Museum Art Viewer
+  logo: /images/sections/skills/android.svg
+  role: Developer
+  repo: https://github.com/duartesom/rijksmuseum-app
+  summary: Art gallery explorer for the Rijks Museum Art API
+  tags: []

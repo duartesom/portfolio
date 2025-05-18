@@ -1,0 +1,15 @@
+name: "Duarte Moreira"
+nickname: "Duarte 👋"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: images/author/profile_pic.jpeg
+
+contactInfo:
+  email: "dsomoreira@gmail.com"
+  github: duartesom
+  linkedin: duarte-moreira-461163166
+
+# some summary about what you do
+summary:
+  - I am an Android Developer
+  - I love creating apps

@@ -1,0 +1,33 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1 
+  showOnNavbar: true 
+  template: sections/about.html
+
+# a summary about you
+summary: 'With 6 years of dedicated experience in Android development, I am a passionate creator of mobile applications for the Android platform. I thrive on bringing innovative ideas to life through code and am actively seeking new and exciting challenges to further hone my skills and contribute to impactful projects.'
+
+designation: Senior Android Developer
+
+company:
+  name: Signicat
+  url: "https://www.signicat.com"
+
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "dsomoreira@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/duartesom"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"

@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name : Kotlin
+  logo: /images/sections/skills/kotlin.svg
+  summary: "Developed applications with Kotlin using the most modern standards in app architecture"
+
+- name : Java
+  logo: /images/sections/skills/java.svg
+  summary: "Developed, maintined and performed convertions for older codebases in Java to Kotlin"
+
+- name : Jetpack Compose
+  logo: /images/sections/skills/android.svg
+  summary: "Leveraged this toolkit to build modern, reactive user interfaces for Android with significantly less boilerplate code."
+
+- name : Hilt
+  logo: /images/sections/skills/android.svg
+  summary: "Utilized Hilt to streamline dependency management in my projects, making the codebase more maintainable and testable."
+
+- name : Room
+  logo: /images/sections/skills/android.svg
+  summary: "Implemented Room to efficiently manage local data persistence using SQLite databases in a more structured way."
+
+- name : Gitlab CI/CD
+  logo: /images/sections/skills/gitlab.svg
+  summary: "Set up and used GitLab CI/CD pipelines to automate the building and testing of my Android applications."

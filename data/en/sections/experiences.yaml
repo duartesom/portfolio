@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Signicat
+    url: https://www.signicat.com
+    location: Lisbon, Portugal
+    logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: Signicat is a leading European provider of digital identity solutions, specializing in verified identities, authentication, and electronic signatures for regulated industries, especially financial services. They offer a platform to enable secure and compliant online interactions.
+  positions:
+  - designation: Senior Android Engineer
+    start: Jun 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Developed and maintained an Android SDK product for secure client authentication used by high-profile customers in the banking and healthcare industries.
+    - Developed test applications for internal testing, using clean architecture, Hilt, Datastore and Jetpack Compose.
+    - Provided technical support to customers, resolving issues and ensuring smooth integration of the SDK product into client systems.
+    - Authored and maintained comprehensive documentation, including user guides and API references, to support clients and facilitate easier integration.
+    - Worked closely with cross-functional teams, including iOS and backend developers, to ensure the SDK product was interoperable across platforms.
+
+- company:
+    name: Link Consulting
+    url: https://linkconsulting.com/
+    location: Lisbon, Portugal
+    logo: /images/sections/experiences/company2.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: Link Consulting is an IT consulting firm based in Portugal specializing in digital transformation. They offer services in areas like enterprise architecture, data, and cloud, alongside developing their own software solutions to help organizations align technology with business objectives.
+  positions:
+  - designation: Android Developer
+    start: Feb 2021
+    end: Jun 2022
+    responsibilities:
+    - Development of two news application for the Middle East market, with one of them already published on Google Play.
+    - Alekhbariya - https://play.google.com/store/apps/details?id=smm.ekh.mobile 
+
+- company:
+    name: Quatenus
+    url: https://www.quatenus.com/en
+    location: Lisbon, Portugal
+    logo: /images/sections/experiences/company2.jpg
+    overview: QUATENUS is a technology company specializing in intelligent location and IoT solutions. They provide a platform for real-time monitoring and management of assets like fleets, equipment, and teams using GPS, Big Data, and AI.
+  positions:
+  - designation: Junior Android Developer
+    start: Feb 2021
+    end: Jun 2022
+    responsibilities:
+    - Maintenance and modernization of legacy Android applications in Java.
+    skills:
